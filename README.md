@@ -15,17 +15,17 @@ Hi there! I'm **Ajit Vitthal Pol**, a passionate **Web Developer** and **Data An
 
 <!-- GitHub stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajitvitthalpol&show_icons=true&theme=radical" alt="Ajit's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajit580&show_icons=true&theme=tokyonight" alt="Ajit's GitHub Stats"/>
 </p>
 
 <!-- Top languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitvitthalpol&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajit580&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <!-- GitHub streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ajitvitthalpol&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Ajit580&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -34,4 +34,3 @@ Hi there! I'm **Ajit Vitthal Pol**, a passionate **Web Developer** and **Data An
 Feel free to reach out if you're interested in collaborating or just want to say hi!
 
 > ⚡ *More sections like Projects or Social Links can be added anytime. Let me know!*
-
